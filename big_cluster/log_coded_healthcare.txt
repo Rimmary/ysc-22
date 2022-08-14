@@ -1,0 +1,240 @@
+7
+0.2
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 8.030227661132812
+7
+0.3
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 6.692084789276123
+7
+0.4
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 6.708566427230835
+7
+0.5
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 6.672271013259888
+7
+0.6
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 5.147256374359131
+7
+0.7
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 10.309317827224731
+7
+0.8
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 10.308920621871948
+7
+0.9
+mostly
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 10.312784194946289
+7
+0.2
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 12.827607870101929
+7
+0.3
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 15.758764743804932
+7
+0.4
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 15.754137992858887
+7
+0.5
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 15.760465860366821
+7
+0.6
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 15.169015884399414
+7
+0.7
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 15.950665712356567
+7
+0.8
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 16.025468111038208
+7
+0.9
+hamming
+Sample ['C', 'I', 'A', 'D', 'O', 'T', 'H']
+Time 15.91059684753418
+7
+0.2
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 7.61577033996582
+7
+0.3
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 6.348199129104614
+7
+0.4
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 6.342709064483643
+7
+0.5
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 6.328125715255737
+7
+0.6
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 5.141480445861816
+7
+0.7
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 10.616060256958008
+7
+0.8
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 10.581526517868042
+7
+0.9
+mostly
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 10.597032308578491
+7
+0.2
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 12.897078514099121
+7
+0.3
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 15.80082654953003
+7
+0.4
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 15.74777102470398
+7
+0.5
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 15.799149751663208
+7
+0.6
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 15.212644338607788
+7
+0.7
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 16.19931983947754
+7
+0.8
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 16.302408695220947
+7
+0.9
+hamming
+Sample ['H', 'O', 'T', 'C', 'A', 'I', 'D']
+Time 16.2537100315094
+7
+0.2
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 8.115634202957153
+7
+0.3
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 6.699626207351685
+7
+0.4
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 6.684028387069702
+7
+0.5
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 6.6933817863464355
+7
+0.6
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 5.149838209152222
+7
+0.7
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 10.631244659423828
+7
+0.8
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 10.58608341217041
+7
+0.9
+mostly
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 10.585646867752075
+7
+0.2
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 12.862882852554321
+7
+0.3
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 15.829018831253052
+7
+0.4
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 15.890278339385986
+7
+0.5
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 15.808228492736816
+7
+0.6
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 15.288878917694092
+7
+0.7
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 16.378798246383667
+7
+0.8
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 16.329652309417725
+7
+0.9
+hamming
+Sample ['T', 'H', 'O', 'A', 'D', 'C', 'I']
+Time 16.337271213531494

@@ -1,0 +1,1 @@
+{"V": ["pH", "Acid", "SPAD08", "BunchN", "NDVI06", "GrapeW", "WoodW", "SPAD06", "Polyph", "Anthoc", "Treatment", "SproutN", "NDVI08", "Potass", "Brix"], "E": [["Polyph", "Anthoc"], ["BunchN", "NDVI06"], ["BunchN", "WoodW"], ["BunchN", "SPAD06"], ["NDVI06", "GrapeW"], ["SPAD08", "BunchN"], ["pH", "Acid"]]}

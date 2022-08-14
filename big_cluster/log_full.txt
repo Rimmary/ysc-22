@@ -1,0 +1,246 @@
+10
+Sample ['Hydrocarbon type', 'Tectonic regime', 'Depositional environment', 'Region', 'Depositional system', 'Netpay', 'Porosity', 'Gross', 'Period', 'OnshoreOffshore']
+Time 2.0401134490966797
+10
+Sample ['Hydrocarbon type', 'Tectonic regime', 'Depositional environment', 'Region', 'Depositional system', 'Netpay', 'Porosity', 'Gross', 'Period', 'OnshoreOffshore']
+Time 2.269806385040283
+10
+Sample ['Hydrocarbon type', 'Tectonic regime', 'Depositional environment', 'Region', 'Depositional system', 'Netpay', 'Porosity', 'Gross', 'Period', 'OnshoreOffshore']
+Time 2.257772445678711
+10
+Sample ['OnshoreOffshore', 'Structural setting', 'Country', 'Permeability', 'Porosity', 'Period', 'Netpay', 'Lithology', 'Trapping mechanism', 'Depositional system']
+Time 2.3226914405822754
+10
+Sample ['Depositional environment', 'Depositional system', 'OnshoreOffshore', 'Permeability', 'Productive area', 'Country', 'Netpay', 'Gross', 'Depth', 'Porosity type']
+Time 1.9837636947631836
+10
+Sample ['Netpay', 'Period', 'Porosity', 'Gross', 'Country', 'Depositional environment', 'OnshoreOffshore', 'Depositional system', 'Porosity type', 'Depth']
+Time 2.242570638656616
+10
+Sample ['Depositional system', 'Gross', 'Depth', 'Porosity type', 'OnshoreOffshore', 'Netpay', 'Structural setting', 'Hydrocarbon type', 'Country', 'Period']
+Time 2.3731753826141357
+10
+Sample ['Depth', 'OnshoreOffshore', 'Productive area', 'Porosity type', 'Gross', 'Hydrocarbon type', 'Region', 'Structural setting', 'Depositional environment', 'Period']
+Time 2.963108539581299
+10
+Sample ['Trapping mechanism', 'Period', 'Lithology', 'Hydrocarbon type', 'Structural setting', 'Depositional system', 'Depositional environment', 'Depth', 'Porosity', 'Country']
+Time 3.5505058765411377
+10
+Sample ['Structural setting', 'Depositional system', 'Netpay', 'Period', 'Porosity type', 'Tectonic regime', 'Productive area', 'Depositional environment', 'Gross', 'Region']
+Time 2.1991724967956543
+10
+Sample ['Permeability', 'Trapping mechanism', 'OnshoreOffshore', 'Netpay', 'Tectonic regime', 'Depositional environment', 'Period', 'Productive area', 'Depositional system', 'Country']
+Time 2.6128182411193848
+10
+Sample ['Structural setting', 'Region', 'Lithology', 'Gross', 'Porosity', 'Depth', 'Netpay', 'Permeability', 'Period', 'Tectonic regime']
+Time 1.9457149505615234
+11
+Sample ['Productive area', 'Trapping mechanism', 'Depositional system', 'Country', 'Netpay', 'OnshoreOffshore', 'Depositional environment', 'Gross', 'Porosity', 'Period', 'Depth']
+Time 3.0257883071899414
+11
+Sample ['Gross', 'Permeability', 'Depositional environment', 'Porosity type', 'Structural setting', 'Lithology', 'Depth', 'Country', 'Period', 'Porosity', 'Tectonic regime']
+Time 3.074915885925293
+11
+Sample ['Trapping mechanism', 'Period', 'Porosity', 'Country', 'Depositional system', 'Productive area', 'Lithology', 'Depositional environment', 'OnshoreOffshore', 'Porosity type', 'Depth']
+Time 3.9338386058807373
+11
+Sample ['Structural setting', 'Gross', 'Porosity', 'Productive area', 'Country', 'Depositional environment', 'Netpay', 'Lithology', 'Porosity type', 'Permeability', 'Depositional system']
+Time 2.388531446456909
+11
+Sample ['Country', 'Depositional system', 'Productive area', 'Depositional environment', 'Lithology', 'Tectonic regime', 'Region', 'Permeability', 'Hydrocarbon type', 'Depth', 'Gross']
+Time 2.82426118850708
+11
+Sample ['Tectonic regime', 'Country', 'Permeability', 'Trapping mechanism', 'Netpay', 'Porosity', 'Hydrocarbon type', 'OnshoreOffshore', 'Gross', 'Region', 'Depth']
+Time 2.469879388809204
+11
+Sample ['Gross', 'Lithology', 'Tectonic regime', 'Structural setting', 'Permeability', 'Hydrocarbon type', 'Depositional environment', 'Porosity', 'Netpay', 'Trapping mechanism', 'Depositional system']
+Time 2.38101863861084
+11
+Sample ['Porosity type', 'Structural setting', 'Trapping mechanism', 'Region', 'Country', 'Hydrocarbon type', 'Period', 'Productive area', 'Gross', 'OnshoreOffshore', 'Netpay']
+Time 2.6978118419647217
+11
+Sample ['OnshoreOffshore', 'Depositional environment', 'Period', 'Lithology', 'Structural setting', 'Country', 'Depth', 'Netpay', 'Porosity', 'Tectonic regime', 'Porosity type']
+Time 3.0402181148529053
+11
+Sample ['Productive area', 'Permeability', 'Porosity', 'Depositional environment', 'Structural setting', 'OnshoreOffshore', 'Porosity type', 'Trapping mechanism', 'Depositional system', 'Netpay', 'Country']
+Time 2.7395083904266357
+12
+Sample ['Netpay', 'Porosity type', 'Porosity', 'Country', 'Gross', 'Hydrocarbon type', 'Tectonic regime', 'OnshoreOffshore', 'Permeability', 'Depth', 'Region', 'Period']
+Time 3.0724003314971924
+12
+Sample ['Tectonic regime', 'Lithology', 'Trapping mechanism', 'Gross', 'Depth', 'Period', 'Structural setting', 'Hydrocarbon type', 'Porosity', 'Country', 'Depositional environment', 'Porosity type']
+Time 4.286623239517212
+12
+Sample ['Period', 'Permeability', 'Productive area', 'Porosity', 'Trapping mechanism', 'Netpay', 'Gross', 'Lithology', 'Depositional environment', 'Country', 'Depth', 'Region']
+Time 2.967548370361328
+12
+Sample ['Gross', 'OnshoreOffshore', 'Period', 'Lithology', 'Porosity type', 'Structural setting', 'Permeability', 'Trapping mechanism', 'Depositional system', 'Region', 'Netpay', 'Tectonic regime']
+Time 3.1279079914093018
+12
+Sample ['Trapping mechanism', 'Structural setting', 'Country', 'Productive area', 'Lithology', 'Period', 'Hydrocarbon type', 'Depth', 'Tectonic regime', 'OnshoreOffshore', 'Permeability', 'Netpay']
+Time 3.3348798751831055
+12
+Sample ['Hydrocarbon type', 'Porosity type', 'Porosity', 'OnshoreOffshore', 'Depth', 'Trapping mechanism', 'Region', 'Period', 'Depositional environment', 'Productive area', 'Depositional system', 'Netpay']
+Time 3.4778079986572266
+12
+Sample ['Depth', 'Depositional system', 'Tectonic regime', 'Gross', 'Country', 'Region', 'Structural setting', 'Permeability', 'Porosity type', 'Depositional environment', 'OnshoreOffshore', 'Lithology']
+Time 3.8199996948242188
+12
+Sample ['Porosity type', 'Trapping mechanism', 'Depositional environment', 'Productive area', 'Permeability', 'Porosity', 'Region', 'Hydrocarbon type', 'OnshoreOffshore', 'Depositional system', 'Tectonic regime', 'Depth']
+Time 4.615355491638184
+12
+Sample ['Depth', 'OnshoreOffshore', 'Porosity type', 'Country', 'Period', 'Region', 'Porosity', 'Tectonic regime', 'Structural setting', 'Productive area', 'Netpay', 'Hydrocarbon type']
+Time 3.535598039627075
+12
+Sample ['Netpay', 'Tectonic regime', 'Depositional system', 'Lithology', 'Region', 'Hydrocarbon type', 'Productive area', 'Depth', 'Permeability', 'Depositional environment', 'Porosity', 'OnshoreOffshore']
+Time 3.183475971221924
+13
+Sample ['Depositional environment', 'OnshoreOffshore', 'Region', 'Porosity', 'Hydrocarbon type', 'Country', 'Lithology', 'Porosity type', 'Netpay', 'Structural setting', 'Period', 'Gross', 'Depositional system']
+Time 4.020617961883545
+13
+Sample ['Period', 'Depositional system', 'Porosity', 'Tectonic regime', 'Region', 'Trapping mechanism', 'Permeability', 'Porosity type', 'OnshoreOffshore', 'Gross', 'Structural setting', 'Lithology', 'Depth']
+Time 4.632983684539795
+13
+Sample ['Depth', 'Lithology', 'Depositional environment', 'Gross', 'Depositional system', 'Productive area', 'Region', 'OnshoreOffshore', 'Netpay', 'Country', 'Structural setting', 'Porosity', 'Tectonic regime']
+Time 3.4668800830841064
+13
+Sample ['Porosity type', 'Permeability', 'Netpay', 'Productive area', 'Period', 'Region', 'Structural setting', 'Trapping mechanism', 'Lithology', 'Depositional system', 'Gross', 'Tectonic regime', 'Depositional environment']
+Time 3.571242332458496
+13
+Sample ['Depth', 'Structural setting', 'Gross', 'Hydrocarbon type', 'Tectonic regime', 'Depositional environment', 'OnshoreOffshore', 'Permeability', 'Trapping mechanism', 'Lithology', 'Productive area', 'Country', 'Porosity']
+Time 4.920736074447632
+13
+Sample ['Tectonic regime', 'Permeability', 'Depth', 'Porosity type', 'Lithology', 'Trapping mechanism', 'Productive area', 'OnshoreOffshore', 'Period', 'Hydrocarbon type', 'Country', 'Structural setting', 'Region']
+Time 5.119686841964722
+13
+Sample ['Porosity type', 'Lithology', 'Depositional system', 'Productive area', 'Region', 'Depositional environment', 'Trapping mechanism', 'Gross', 'Depth', 'Porosity', 'OnshoreOffshore', 'Netpay', 'Country']
+Time 3.5676348209381104
+13
+Sample ['Depositional system', 'Netpay', 'Tectonic regime', 'Hydrocarbon type', 'Depositional environment', 'Region', 'Gross', 'Trapping mechanism', 'Country', 'Lithology', 'Permeability', 'Period', 'Structural setting']
+Time 3.8481996059417725
+13
+Sample ['Structural setting', 'Depth', 'Hydrocarbon type', 'Region', 'Depositional environment', 'Netpay', 'Productive area', 'Permeability', 'Porosity', 'Tectonic regime', 'Lithology', 'Period', 'Porosity type']
+Time 3.8494303226470947
+13
+Sample ['Hydrocarbon type', 'Porosity type', 'Lithology', 'Region', 'Gross', 'Depositional environment', 'Structural setting', 'Depth', 'Tectonic regime', 'OnshoreOffshore', 'Porosity', 'Trapping mechanism', 'Productive area']
+Time 4.602513790130615
+14
+Sample ['Region', 'Porosity type', 'Period', 'Tectonic regime', 'Hydrocarbon type', 'Structural setting', 'Depositional environment', 'Permeability', 'Country', 'OnshoreOffshore', 'Porosity', 'Netpay', 'Lithology', 'Gross']
+Time 4.3766937255859375
+14
+Sample ['Porosity', 'Depositional environment', 'Permeability', 'Depth', 'Trapping mechanism', 'Depositional system', 'Country', 'Period', 'Productive area', 'Tectonic regime', 'Hydrocarbon type', 'OnshoreOffshore', 'Gross', 'Porosity type']
+Time 5.501521825790405
+14
+Sample ['Country', 'Region', 'Gross', 'Lithology', 'Tectonic regime', 'Permeability', 'Porosity', 'Structural setting', 'Hydrocarbon type', 'Netpay', 'Period', 'Depositional environment', 'OnshoreOffshore', 'Trapping mechanism']
+Time 4.515944242477417
+14
+Sample ['Tectonic regime', 'Depositional system', 'Structural setting', 'Country', 'Depth', 'Depositional environment', 'Productive area', 'Netpay', 'Trapping mechanism', 'OnshoreOffshore', 'Porosity type', 'Porosity', 'Lithology', 'Gross']
+Time 4.346639394760132
+14
+Sample ['Depositional system', 'Porosity', 'Porosity type', 'Depositional environment', 'Lithology', 'Gross', 'Structural setting', 'Hydrocarbon type', 'OnshoreOffshore', 'Country', 'Region', 'Period', 'Netpay', 'Tectonic regime']
+Time 4.668515682220459
+14
+Sample ['Productive area', 'Trapping mechanism', 'Period', 'Hydrocarbon type', 'Permeability', 'Gross', 'Porosity', 'Depositional environment', 'Depth', 'Tectonic regime', 'Depositional system', 'Netpay', 'Country', 'Lithology']
+Time 4.206666707992554
+14
+Sample ['Trapping mechanism', 'Netpay', 'Productive area', 'Tectonic regime', 'Hydrocarbon type', 'Period', 'OnshoreOffshore', 'Lithology', 'Country', 'Depositional system', 'Depth', 'Structural setting', 'Depositional environment', 'Permeability']
+Time 5.090386390686035
+14
+Sample ['Netpay', 'Trapping mechanism', 'Productive area', 'Depositional environment', 'Gross', 'Country', 'Permeability', 'Region', 'Hydrocarbon type', 'Porosity type', 'Lithology', 'Structural setting', 'Depth', 'Porosity']
+Time 4.078030347824097
+14
+Sample ['Tectonic regime', 'Permeability', 'Depositional system', 'Porosity', 'Period', 'Netpay', 'Trapping mechanism', 'Gross', 'Depth', 'Productive area', 'Structural setting', 'Region', 'Hydrocarbon type', 'OnshoreOffshore']
+Time 4.348958492279053
+14
+Sample ['Period', 'OnshoreOffshore', 'Porosity', 'Lithology', 'Depositional environment', 'Depth', 'Region', 'Porosity type', 'Hydrocarbon type', 'Permeability', 'Trapping mechanism', 'Depositional system', 'Productive area', 'Structural setting']
+Time 5.989834308624268
+15
+Sample ['Country', 'Period', 'Permeability', 'Lithology', 'Depth', 'Porosity', 'Porosity type', 'Structural setting', 'OnshoreOffshore', 'Hydrocarbon type', 'Gross', 'Region', 'Tectonic regime', 'Trapping mechanism', 'Depositional environment']
+Time 6.229132175445557
+15
+Sample ['Depositional environment', 'Lithology', 'Depth', 'Porosity', 'Porosity type', 'Depositional system', 'Tectonic regime', 'Structural setting', 'Productive area', 'Netpay', 'Period', 'Permeability', 'Country', 'Region', 'OnshoreOffshore']
+Time 5.3771586418151855
+15
+Sample ['Period', 'Lithology', 'OnshoreOffshore', 'Permeability', 'Netpay', 'Country', 'Region', 'Trapping mechanism', 'Porosity', 'Depositional environment', 'Hydrocarbon type', 'Productive area', 'Depth', 'Gross', 'Porosity type']
+Time 5.039426803588867
+15
+Sample ['Trapping mechanism', 'Gross', 'Lithology', 'Period', 'Depositional environment', 'Porosity type', 'Productive area', 'Porosity', 'Depth', 'Country', 'Region', 'OnshoreOffshore', 'Structural setting', 'Permeability', 'Tectonic regime']
+Time 6.082086563110352
+15
+Sample ['Lithology', 'Netpay', 'Porosity type', 'Trapping mechanism', 'Gross', 'Structural setting', 'Depth', 'Depositional system', 'Region', 'Period', 'Depositional environment', 'Porosity', 'Hydrocarbon type', 'Country', 'Tectonic regime']
+Time 5.592750787734985
+15
+Sample ['Trapping mechanism', 'Period', 'Permeability', 'Lithology', 'Porosity', 'Depositional environment', 'Depth', 'Hydrocarbon type', 'Tectonic regime', 'Depositional system', 'OnshoreOffshore', 'Structural setting', 'Porosity type', 'Country', 'Netpay']
+Time 5.499776363372803
+15
+Sample ['Porosity', 'Netpay', 'Porosity type', 'Depth', 'Lithology', 'Permeability', 'Gross', 'Region', 'Depositional system', 'OnshoreOffshore', 'Hydrocarbon type', 'Productive area', 'Country', 'Depositional environment', 'Structural setting']
+Time 4.946520566940308
+15
+Sample ['Netpay', 'Depositional environment', 'Productive area', 'Depth', 'Region', 'Permeability', 'Lithology', 'Country', 'Structural setting', 'Hydrocarbon type', 'Period', 'Depositional system', 'Gross', 'Trapping mechanism', 'Tectonic regime']
+Time 4.970062017440796
+15
+Sample ['Hydrocarbon type', 'Permeability', 'Depositional environment', 'Depositional system', 'Tectonic regime', 'Trapping mechanism', 'Structural setting', 'Country', 'Depth', 'Gross', 'Region', 'Productive area', 'Lithology', 'OnshoreOffshore', 'Porosity type']
+Time 6.202298641204834
+15
+Sample ['Gross', 'Tectonic regime', 'Permeability', 'Country', 'Trapping mechanism', 'Depositional environment', 'Depth', 'Porosity', 'Region', 'Period', 'Hydrocarbon type', 'Depositional system', 'Porosity type', 'Lithology', 'Netpay']
+Time 5.1203508377075195
+16
+Sample ['Depositional system', 'Porosity type', 'Depositional environment', 'Region', 'Permeability', 'Gross', 'Structural setting', 'Trapping mechanism', 'Productive area', 'Depth', 'Country', 'Porosity', 'Tectonic regime', 'Hydrocarbon type', 'Lithology', 'Period']
+Time 6.933444976806641
+16
+Sample ['Depositional system', 'Netpay', 'Trapping mechanism', 'Tectonic regime', 'Depth', 'Structural setting', 'Hydrocarbon type', 'Lithology', 'Productive area', 'OnshoreOffshore', 'Gross', 'Porosity', 'Porosity type', 'Region', 'Country', 'Permeability']
+Time 5.555142879486084
+16
+Sample ['Netpay', 'Porosity type', 'Porosity', 'Permeability', 'Depth', 'OnshoreOffshore', 'Hydrocarbon type', 'Structural setting', 'Region', 'Tectonic regime', 'Depositional system', 'Gross', 'Productive area', 'Lithology', 'Depositional environment', 'Period']
+Time 5.617339134216309
+16
+Sample ['Trapping mechanism', 'Productive area', 'Hydrocarbon type', 'Netpay', 'Tectonic regime', 'Gross', 'Depositional system', 'Depth', 'Structural setting', 'Period', 'OnshoreOffshore', 'Country', 'Porosity type', 'Region', 'Porosity', 'Depositional environment']
+Time 5.9581708908081055
+16
+Sample ['OnshoreOffshore', 'Depositional system', 'Netpay', 'Productive area', 'Trapping mechanism', 'Region', 'Tectonic regime', 'Country', 'Porosity type', 'Lithology', 'Depth', 'Permeability', 'Depositional environment', 'Porosity', 'Hydrocarbon type', 'Structural setting']
+Time 6.40171217918396
+16
+Sample ['Depositional environment', 'OnshoreOffshore', 'Productive area', 'Region', 'Trapping mechanism', 'Period', 'Porosity', 'Depositional system', 'Porosity type', 'Netpay', 'Tectonic regime', 'Permeability', 'Depth', 'Lithology', 'Gross', 'Hydrocarbon type']
+Time 5.556824207305908
+16
+Sample ['Netpay', 'Period', 'Permeability', 'Gross', 'Hydrocarbon type', 'Productive area', 'Depositional system', 'Lithology', 'Region', 'OnshoreOffshore', 'Porosity type', 'Country', 'Trapping mechanism', 'Depth', 'Depositional environment', 'Structural setting']
+Time 5.46338963508606
+16
+Sample ['Netpay', 'Lithology', 'Period', 'Structural setting', 'Tectonic regime', 'Depth', 'Porosity type', 'Porosity', 'Country', 'Trapping mechanism', 'Permeability', 'Region', 'Productive area', 'Hydrocarbon type', 'Depositional environment', 'Gross']
+Time 5.479382276535034
+16
+Sample ['Netpay', 'Depositional environment', 'Hydrocarbon type', 'Region', 'Depositional system', 'Porosity type', 'Structural setting', 'Country', 'Depth', 'Trapping mechanism', 'Lithology', 'Gross', 'Permeability', 'Porosity', 'Tectonic regime', 'Period']
+Time 6.3981709480285645
+16
+Sample ['Porosity', 'Tectonic regime', 'Period', 'Country', 'Depositional system', 'Porosity type', 'Trapping mechanism', 'Hydrocarbon type', 'OnshoreOffshore', 'Depth', 'Structural setting', 'Gross', 'Productive area', 'Depositional environment', 'Netpay', 'Lithology']
+Time 5.999541759490967
+17
+Sample ['Depositional system', 'Depth', 'Region', 'Lithology', 'Netpay', 'Permeability', 'Tectonic regime', 'Productive area', 'Period', 'Depositional environment', 'Country', 'Gross', 'Hydrocarbon type', 'OnshoreOffshore', 'Structural setting', 'Porosity', 'Porosity type']
+Time 6.655797719955444
+17
+Sample ['Tectonic regime', 'Depositional environment', 'Depth', 'Hydrocarbon type', 'Structural setting', 'Region', 'Porosity', 'Country', 'OnshoreOffshore', 'Period', 'Porosity type', 'Depositional system', 'Productive area', 'Trapping mechanism', 'Lithology', 'Gross', 'Netpay']
+Time 6.750977993011475
+17
+Sample ['OnshoreOffshore', 'Porosity type', 'Region', 'Tectonic regime', 'Depositional environment', 'Country', 'Depositional system', 'Trapping mechanism', 'Permeability', 'Period', 'Gross', 'Netpay', 'Productive area', 'Hydrocarbon type', 'Lithology', 'Porosity', 'Structural setting']
+Time 6.686911344528198
+17
+Sample ['Porosity type', 'Tectonic regime', 'Lithology', 'Country', 'Porosity', 'Period', 'Permeability', 'Hydrocarbon type', 'Productive area', 'Trapping mechanism', 'Depth', 'Netpay', 'OnshoreOffshore', 'Gross', 'Depositional environment', 'Depositional system', 'Region']
+Time 6.762575626373291
+17
+Sample ['Depositional system', 'Trapping mechanism', 'Period', 'Productive area', 'Permeability', 'Depositional environment', 'Structural setting', 'Lithology', 'Depth', 'Region', 'Tectonic regime', 'Porosity', 'OnshoreOffshore', 'Hydrocarbon type', 'Country', 'Netpay', 'Gross']
+Time 6.61556077003479
+17
+Sample ['Period', 'Gross', 'Netpay', 'Depositional environment', 'Productive area', 'Region', 'Depth', 'Porosity', 'Tectonic regime', 'Structural setting', 'Country', 'Lithology', 'Porosity type', 'Hydrocarbon type', 'Trapping mechanism', 'Permeability', 'OnshoreOffshore']
+Time 6.4354095458984375
+17
+Sample ['Porosity type', 'Gross', 'Depositional environment', 'Productive area', 'Trapping mechanism', 'Porosity', 'Structural setting', 'Netpay', 'Country', 'Depth', 'Region', 'Depositional system', 'Tectonic regime', 'Permeability', 'Hydrocarbon type', 'OnshoreOffshore', 'Lithology']
+Time 6.705395698547363
+17
+Sample ['Permeability', 'Depositional environment', 'Structural setting', 'Depositional system', 'Productive area', 'Gross', 'Period', 'Region', 'Lithology', 'Country', 'Tectonic regime', 'Trapping mechanism', 'Hydrocarbon type', 'OnshoreOffshore', 'Depth', 'Netpay', 'Porosity type']
+Time 6.885106563568115
+17
+Sample ['Gross', 'Depth', 'Netpay', 'Hydrocarbon type', 'Depositional system', 'Lithology', 'Productive area', 'Depositional environment', 'Porosity type', 'Tectonic regime', 'Country', 'Region', 'Structural setting', 'Period', 'Permeability', 'Porosity', 'Trapping mechanism']
+Time 6.362716436386108
+17
+Sample ['Porosity', 'Region', 'OnshoreOffshore', 'Depositional environment', 'Porosity type', 'Hydrocarbon type', 'Gross', 'Trapping mechanism', 'Structural setting', 'Netpay', 'Depth', 'Productive area', 'Permeability', 'Period', 'Country', 'Lithology', 'Tectonic regime']
+Time 6.648765563964844

@@ -1,0 +1,2044 @@
+10
+0.8
+Sample ['mobile_phone', 'top1', 'relation', 'books', 'status', '90_perc', 'min_tr', 'median_tr', 'top3_mean', 'personal_people_main']
+Time 59.28359293937683
+10
+0.85
+Sample ['mobile_phone', 'top1', 'relation', 'books', 'status', '90_perc', 'min_tr', 'median_tr', 'top3_mean', 'personal_people_main']
+Time 47.77473163604736
+10
+0.9
+Sample ['mobile_phone', 'top1', 'relation', 'books', 'status', '90_perc', 'min_tr', 'median_tr', 'top3_mean', 'personal_people_main']
+Time 46.486005783081055
+15
+0.8
+Sample ['mobile_phone', 'top1', 'relation', 'books', 'status', '90_perc', 'min_tr', 'median_tr', 'top3_mean', 'personal_people_main', 'about_topic', 'followers_count', 'parent_sum', 'age', 'top3']
+Time 121.56119132041931
+15
+0.85
+Sample ['mobile_phone', 'top1', 'relation', 'books', 'status', '90_perc', 'min_tr', 'median_tr', 'top3_mean', 'personal_people_main', 'about_topic', 'followers_count', 'parent_sum', 'age', 'top3']
+Time 106.36398911476135
+15
+0.9
+Sample ['mobile_phone', 'top1', 'relation', 'books', 'status', '90_perc', 'min_tr', 'median_tr', 'top3_mean', 'personal_people_main', 'about_topic', 'followers_count', 'parent_sum', 'age', 'top3']
+Time 94.20514249801636
+15
+0.6
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 134.20023798942566
+15
+0.65
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 133.94925546646118
+15
+0.7
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 117.9644365310669
+15
+0.75
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 98.87783861160278
+15
+0.8
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 93.67477083206177
+15
+0.85
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 97.84208178520203
+15
+0.9
+Sample ['max_tr', 'top2', 'sex', 'parent_sum', 'min_tr', 'interests', 'activities', 'top1_mean', 'followers_count', 'music', 'age', 'top2_mean', 'pets_sum', 'cash_sum', 'is_driver']
+Time 106.11314654350281
+15
+0.5
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 136.92592191696167
+15
+0.55
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 139.2099347114563
+15
+0.6
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 123.1359167098999
+15
+0.65
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 120.09887838363647
+15
+0.7
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 121.54882502555847
+15
+0.75
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 120.78842759132385
+15
+0.8
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 103.02412986755371
+15
+0.85
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 96.39163827896118
+15
+0.9
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 82.61543297767639
+15
+0.95
+Sample ['personal_people_main', 'is_gamer', 'about_topic', 'max_tr', 'age', 'tr_per_month', 'activities', 'min_tr', '90_perc', 'cash_usage', 'pets_sum', 'personal_alcohol', 'top2_mean', 'top1_mean', 'mean_tr']
+Time 94.52240633964539
+15
+0.75
+Sample ['interests_topic', 'age', 'HLength', 'cash_usage', 'top3_mean', 'followers_count', 'instagram', 'top3', 'has_pets', 'status', 'quotes', 'sum_am', 'max_tr', 'top2', 'about']
+Time 125.23020672798157
+15
+0.8
+Sample ['interests_topic', 'age', 'HLength', 'cash_usage', 'top3_mean', 'followers_count', 'instagram', 'top3', 'has_pets', 'status', 'quotes', 'sum_am', 'max_tr', 'top2', 'about']
+Time 107.74752879142761
+15
+0.85
+Sample ['interests_topic', 'age', 'HLength', 'cash_usage', 'top3_mean', 'followers_count', 'instagram', 'top3', 'has_pets', 'status', 'quotes', 'sum_am', 'max_tr', 'top2', 'about']
+Time 72.66564655303955
+15
+0.9
+Sample ['interests_topic', 'age', 'HLength', 'cash_usage', 'top3_mean', 'followers_count', 'instagram', 'top3', 'has_pets', 'status', 'quotes', 'sum_am', 'max_tr', 'top2', 'about']
+Time 84.20903205871582
+15
+0.7
+Sample ['movies', 'interests_topic', 'top1_mean', '90_perc', 'sum_am', 'personal_political', 'is_driver', 'city_id', 'median_tr', 'activities_topic', 'parent_sum', 'HLength', 'instagram', 'personal_life_main', 'cash_usage']
+Time 133.971510887146
+15
+0.75
+Sample ['movies', 'interests_topic', 'top1_mean', '90_perc', 'sum_am', 'personal_political', 'is_driver', 'city_id', 'median_tr', 'activities_topic', 'parent_sum', 'HLength', 'instagram', 'personal_life_main', 'cash_usage']
+Time 135.57559275627136
+15
+0.8
+Sample ['movies', 'interests_topic', 'top1_mean', '90_perc', 'sum_am', 'personal_political', 'is_driver', 'city_id', 'median_tr', 'activities_topic', 'parent_sum', 'HLength', 'instagram', 'personal_life_main', 'cash_usage']
+Time 124.69046235084534
+15
+0.85
+Sample ['movies', 'interests_topic', 'top1_mean', '90_perc', 'sum_am', 'personal_political', 'is_driver', 'city_id', 'median_tr', 'activities_topic', 'parent_sum', 'HLength', 'instagram', 'personal_life_main', 'cash_usage']
+Time 72.80343723297119
+15
+0.9
+Sample ['movies', 'interests_topic', 'top1_mean', '90_perc', 'sum_am', 'personal_political', 'is_driver', 'city_id', 'median_tr', 'activities_topic', 'parent_sum', 'HLength', 'instagram', 'personal_life_main', 'cash_usage']
+Time 70.86012005805969
+15
+0.95
+Sample ['movies', 'interests_topic', 'top1_mean', '90_perc', 'sum_am', 'personal_political', 'is_driver', 'city_id', 'median_tr', 'activities_topic', 'parent_sum', 'HLength', 'instagram', 'personal_life_main', 'cash_usage']
+Time 81.90024375915527
+16
+0.05
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 150.29821610450745
+16
+0.1
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 151.76328873634338
+16
+0.15
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 152.1937894821167
+16
+0.2
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 149.37891173362732
+16
+0.25
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 152.04856991767883
+16
+0.3
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 152.1906750202179
+16
+0.35
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 153.1132254600525
+16
+0.4
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 154.70245361328125
+16
+0.45
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 150.58076167106628
+16
+0.5
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 152.07622647285461
+16
+0.55
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 153.60924124717712
+16
+0.6
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 151.2542712688446
+16
+0.65
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 161.12901639938354
+16
+0.7
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 150.10992002487183
+16
+0.75
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 149.90121293067932
+16
+0.8
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 134.43251419067383
+16
+0.85
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 127.81793165206909
+16
+0.9
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 95.1732656955719
+16
+0.95
+Sample ['parent_sum', 'is_gamer', 'is_driver', 'personal_life_main', 'num_of_relatives', 'min_tr', 'game_sum', 'sum_am', 'followers_count', 'facebook', 'tr_per_month', 'personal_political', 'driver_sum', '90_perc', 'age', 'median_tr']
+Time 78.29673290252686
+16
+0.65
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 164.29287266731262
+16
+0.7
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 145.86369609832764
+16
+0.75
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 117.92869305610657
+16
+0.8
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 118.14817070960999
+16
+0.85
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 114.15578699111938
+16
+0.9
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 113.82287669181824
+16
+0.95
+Sample ['city_id', 'movies', 'is_parent', 'top2_mean', 'top1_mean', 'is_driver', 'personal_political', 'top3_mean', 'facebook', 'game_sum', 'sum_am', 'activities', 'sex', 'about', 'cash_sum', 'top2']
+Time 98.21222472190857
+16
+0.6
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 155.80594873428345
+16
+0.65
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 151.47921657562256
+16
+0.7
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 146.04342913627625
+16
+0.75
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 154.53776717185974
+16
+0.8
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 133.19208192825317
+16
+0.85
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 95.85796427726746
+16
+0.9
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 84.28191876411438
+16
+0.95
+Sample ['personal_political', 'sum_am', 'personal_alcohol', 'top1', 'is_driver', 'mean_tr', 'interests', 'game_sum', 'cash_usage', 'top2', 'sex', 'personal_people_main', 'pets_sum', 'mobile_phone', 'tr_per_month', 'about_topic']
+Time 82.48300623893738
+16
+0.65
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 139.34282755851746
+16
+0.7
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 135.60010957717896
+16
+0.75
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 102.22092032432556
+16
+0.8
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 91.40420889854431
+16
+0.85
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 100.08348417282104
+16
+0.9
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 101.51384782791138
+16
+0.95
+Sample ['max_tr', 'has_high_education', 'median_tr', 'personal_life_main', 'top1', 'cash_usage', 'about', 'sum_am', 'HLength', '90_perc', 'personal_alcohol', 'top3_mean', 'top2_mean', 'sex', 'cash_sum', 'parent_sum']
+Time 132.84087562561035
+16
+0.65
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 151.53617811203003
+16
+0.7
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 150.76640844345093
+16
+0.75
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 117.00689935684204
+16
+0.8
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 98.91355991363525
+16
+0.85
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 95.59072422981262
+16
+0.9
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 87.38413000106812
+16
+0.95
+Sample ['top2_mean', 'has_pets', 'quotes', 'mean_tr', 'top2', 'age', 'activities', 'top3', 'instagram', 'cash_usage', 'top1_mean', 'top3_mean', 'num_of_relatives', 'game_sum', 'books', 'city_id']
+Time 98.65883040428162
+17
+0.75
+Sample ['is_gamer', 'relation', 'num_of_relatives', 'age', 'min_tr', 'sex', 'interests', 'activities_topic', 'has_pets', 'status', 'top2_mean', 'instagram', 'personal_alcohol', 'interests_topic', 'pets_sum', 'facebook', 'cash_sum']
+Time 163.76261258125305
+17
+0.8
+Sample ['is_gamer', 'relation', 'num_of_relatives', 'age', 'min_tr', 'sex', 'interests', 'activities_topic', 'has_pets', 'status', 'top2_mean', 'instagram', 'personal_alcohol', 'interests_topic', 'pets_sum', 'facebook', 'cash_sum']
+Time 149.2181749343872
+17
+0.85
+Sample ['is_gamer', 'relation', 'num_of_relatives', 'age', 'min_tr', 'sex', 'interests', 'activities_topic', 'has_pets', 'status', 'top2_mean', 'instagram', 'personal_alcohol', 'interests_topic', 'pets_sum', 'facebook', 'cash_sum']
+Time 154.06727147102356
+17
+0.9
+Sample ['is_gamer', 'relation', 'num_of_relatives', 'age', 'min_tr', 'sex', 'interests', 'activities_topic', 'has_pets', 'status', 'top2_mean', 'instagram', 'personal_alcohol', 'interests_topic', 'pets_sum', 'facebook', 'cash_sum']
+Time 115.28352236747742
+17
+0.95
+Sample ['is_gamer', 'relation', 'num_of_relatives', 'age', 'min_tr', 'sex', 'interests', 'activities_topic', 'has_pets', 'status', 'top2_mean', 'instagram', 'personal_alcohol', 'interests_topic', 'pets_sum', 'facebook', 'cash_sum']
+Time 121.70836091041565
+17
+0.4
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 188.64875078201294
+17
+0.45
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 178.38197135925293
+17
+0.5
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 163.52162551879883
+17
+0.55
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 144.24811029434204
+17
+0.6
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 119.01394200325012
+17
+0.65
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 120.23902750015259
+17
+0.7
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 126.24277520179749
+17
+0.75
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 107.26073050498962
+17
+0.8
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 102.68327140808105
+17
+0.85
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 105.02613258361816
+17
+0.9
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 94.39380192756653
+17
+0.95
+Sample ['books', 'tr_per_month', 'facebook', 'game_sum', 'interests', 'top3_mean', 'interests_topic', 'mean_tr', 'music', '90_perc', 'median_tr', 'status', 'age', 'movies', 'personal_people_main', 'quotes', 'HLength']
+Time 83.6880555152893
+17
+0.65
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 163.67902851104736
+17
+0.7
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 166.14724254608154
+17
+0.75
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 132.42587995529175
+17
+0.8
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 131.47054290771484
+17
+0.85
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 115.468190908432
+17
+0.9
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 97.34670495986938
+17
+0.95
+Sample ['about', 'books', 'followers_count', 'pets_sum', 'sum_am', 'about_topic', 'top2', 'max_tr', 'age', 'activities', 'top3_mean', 'personal_political', 'twitter', 'city_id', 'facebook', 'min_tr', 'is_parent']
+Time 105.27945923805237
+17
+0.4
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 174.86407804489136
+17
+0.45
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 177.8589231967926
+17
+0.5
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 169.30229139328003
+17
+0.55
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 168.5145230293274
+17
+0.6
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 167.70605516433716
+17
+0.65
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 172.75107407569885
+17
+0.7
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 151.27749919891357
+17
+0.75
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 135.7633159160614
+17
+0.8
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 126.12694454193115
+17
+0.85
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 79.5205352306366
+17
+0.9
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 88.33150672912598
+17
+0.95
+Sample ['is_gamer', 'max_tr', 'cash_sum', 'activities', 'top3', 'parent_sum', 'tr_per_month', 'min_tr', 'driver_sum', 'has_pets', 'age', 'personal_political', 'top1', 'music', 'pets_sum', 'has_high_education', 'movies']
+Time 114.30140399932861
+17
+0.55
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 175.29883980751038
+17
+0.6
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 174.1093714237213
+17
+0.65
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 176.23483514785767
+17
+0.7
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 172.96992540359497
+17
+0.75
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 176.07270860671997
+17
+0.8
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 163.62544751167297
+17
+0.85
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 126.96446561813354
+17
+0.9
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 94.42547655105591
+17
+0.95
+Sample ['mobile_phone', 'about_topic', 'has_high_education', 'movies', 'relation', 'is_parent', 'driver_sum', 'is_gamer', 'facebook', 'HLength', 'top1', 'books', 'has_pets', 'sex', 'cash_usage', 'city_id', 'pets_sum']
+Time 93.26701712608337
+18
+0.05
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 205.6490204334259
+18
+0.1
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 203.38422298431396
+18
+0.15
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 201.229971408844
+18
+0.2
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 199.67807960510254
+18
+0.25
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 198.26659846305847
+18
+0.3
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 197.59413504600525
+18
+0.35
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 196.5783851146698
+18
+0.4
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 199.73450016975403
+18
+0.45
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 204.04481840133667
+18
+0.5
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 191.23868227005005
+18
+0.55
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 184.58347821235657
+18
+0.6
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 149.85015320777893
+18
+0.65
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 145.62098503112793
+18
+0.7
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 143.5491042137146
+18
+0.75
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 131.7416319847107
+18
+0.8
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 131.3337664604187
+18
+0.85
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 125.41022968292236
+18
+0.9
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 101.33969330787659
+18
+0.95
+Sample ['top1', 'mean_tr', 'facebook', 'is_parent', 'top2_mean', 'sum_am', 'city_id', 'personal_people_main', 'about', 'personal_alcohol', 'followers_count', 'about_topic', 'has_pets', 'max_tr', 'top3_mean', '90_perc', 'driver_sum', 'game_sum']
+Time 164.68614864349365
+18
+0.6
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 188.00490832328796
+18
+0.65
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 149.21440768241882
+18
+0.7
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 146.80242800712585
+18
+0.75
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 125.6579179763794
+18
+0.8
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 124.97342014312744
+18
+0.85
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 114.99530386924744
+18
+0.9
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 99.45601630210876
+18
+0.95
+Sample ['interests_topic', 'sum_am', '90_perc', 'age', 'music', 'top2_mean', 'personal_political', 'has_pets', 'driver_sum', 'facebook', 'about', 'is_parent', 'top1', 'mobile_phone', 'quotes', 'max_tr', 'about_topic', 'interests']
+Time 103.53967237472534
+18
+0.6
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 210.44488835334778
+18
+0.65
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 201.24973917007446
+18
+0.7
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 201.51454067230225
+18
+0.75
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 182.94706773757935
+18
+0.8
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 187.72897958755493
+18
+0.85
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 161.3451132774353
+18
+0.9
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 118.68460464477539
+18
+0.95
+Sample ['is_gamer', 'followers_count', 'personal_people_main', 'cash_usage', 'personal_alcohol', 'has_pets', 'cash_sum', '90_perc', 'parent_sum', 'activities_topic', 'relation', 'city_id', 'num_of_relatives', 'mobile_phone', 'facebook', 'driver_sum', 'about_topic', 'interests']
+Time 105.74918842315674
+18
+0.55
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 208.31552147865295
+18
+0.6
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 210.7106533050537
+18
+0.65
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 194.32445740699768
+18
+0.7
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 187.01757860183716
+18
+0.75
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 182.73081803321838
+18
+0.8
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 169.17484617233276
+18
+0.85
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 146.74161887168884
+18
+0.9
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 112.93481230735779
+18
+0.95
+Sample ['pets_sum', 'quotes', 'top2', 'sum_am', 'books', 'personal_life_main', 'has_pets', 'is_gamer', 'status', 'interests_topic', 'activities_topic', 'is_driver', '90_perc', 'mobile_phone', 'cash_usage', 'followers_count', 'music', 'city_id']
+Time 121.26619243621826
+18
+0.5
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 193.57569408416748
+18
+0.55
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 188.5996868610382
+18
+0.6
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 188.33044481277466
+18
+0.65
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 195.09736800193787
+18
+0.7
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 143.24587392807007
+18
+0.75
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 138.66506958007812
+18
+0.8
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 137.66284203529358
+18
+0.85
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 117.25706696510315
+18
+0.9
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 102.24425101280212
+18
+0.95
+Sample ['HLength', 'relation', 'personal_people_main', 'twitter', 'mobile_phone', 'quotes', 'status', 'top2_mean', 'top1_mean', 'is_driver', 'pets_sum', 'top1', 'cash_usage', 'activities', 'num_of_relatives', 'interests', 'personal_life_main', 'interests_topic']
+Time 106.21348404884338
+19
+0.7
+Sample ['top1', 'cash_sum', 'status', 'mean_tr', 'interests', 'followers_count', 'city_id', 'interests_topic', 'sex', 'top2_mean', 'top3_mean', 'num_of_relatives', 'HLength', 'is_driver', 'is_gamer', 'about', 'activities_topic', 'top1_mean', 'facebook']
+Time 218.75339937210083
+19
+0.75
+Sample ['top1', 'cash_sum', 'status', 'mean_tr', 'interests', 'followers_count', 'city_id', 'interests_topic', 'sex', 'top2_mean', 'top3_mean', 'num_of_relatives', 'HLength', 'is_driver', 'is_gamer', 'about', 'activities_topic', 'top1_mean', 'facebook']
+Time 177.2877733707428
+19
+0.8
+Sample ['top1', 'cash_sum', 'status', 'mean_tr', 'interests', 'followers_count', 'city_id', 'interests_topic', 'sex', 'top2_mean', 'top3_mean', 'num_of_relatives', 'HLength', 'is_driver', 'is_gamer', 'about', 'activities_topic', 'top1_mean', 'facebook']
+Time 156.67547059059143
+19
+0.85
+Sample ['top1', 'cash_sum', 'status', 'mean_tr', 'interests', 'followers_count', 'city_id', 'interests_topic', 'sex', 'top2_mean', 'top3_mean', 'num_of_relatives', 'HLength', 'is_driver', 'is_gamer', 'about', 'activities_topic', 'top1_mean', 'facebook']
+Time 150.80752873420715
+19
+0.9
+Sample ['top1', 'cash_sum', 'status', 'mean_tr', 'interests', 'followers_count', 'city_id', 'interests_topic', 'sex', 'top2_mean', 'top3_mean', 'num_of_relatives', 'HLength', 'is_driver', 'is_gamer', 'about', 'activities_topic', 'top1_mean', 'facebook']
+Time 134.8355894088745
+19
+0.55
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 225.42877769470215
+19
+0.6
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 226.7738058567047
+19
+0.65
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 225.6018364429474
+19
+0.7
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 204.5522017478943
+19
+0.75
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 182.0034739971161
+19
+0.8
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 181.453871011734
+19
+0.85
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 159.12313389778137
+19
+0.9
+Sample ['status', 'min_tr', 'facebook', 'is_gamer', 'activities_topic', 'is_driver', 'followers_count', 'max_tr', 'personal_people_main', 'cash_sum', 'interests_topic', 'cash_usage', 'books', 'median_tr', 'music', 'driver_sum', 'about_topic', 'top2', 'city_id']
+Time 123.5903537273407
+19
+0.05
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 200.9462115764618
+19
+0.1
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 202.2157588005066
+19
+0.15
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 201.48925185203552
+19
+0.2
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 203.62604880332947
+19
+0.25
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 200.31256294250488
+19
+0.3
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 200.6616792678833
+19
+0.35
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 200.05555152893066
+19
+0.4
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 203.70990633964539
+19
+0.45
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 205.05125737190247
+19
+0.5
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 201.10610032081604
+19
+0.55
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 189.22293615341187
+19
+0.6
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 190.1820695400238
+19
+0.65
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 188.03576469421387
+19
+0.7
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 188.3111355304718
+19
+0.75
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 170.4486699104309
+19
+0.8
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 154.57663321495056
+19
+0.85
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 127.97699761390686
+19
+0.9
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 104.84349775314331
+19
+0.95
+Sample ['age', 'sex', 'interests_topic', 'driver_sum', 'top2', 'music', 'min_tr', 'personal_political', 'parent_sum', 'game_sum', 'relation', 'top2_mean', 'top3_mean', 'mean_tr', 'status', 'books', 'about_topic', 'median_tr', 'personal_alcohol']
+Time 120.15149903297424
+19
+0.5
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 224.96845960617065
+19
+0.55
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 202.96779990196228
+19
+0.6
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 166.81703543663025
+19
+0.65
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 149.28390645980835
+19
+0.7
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 138.786470413208
+19
+0.75
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 126.69161748886108
+19
+0.8
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 133.04982733726501
+19
+0.85
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 128.17113542556763
+19
+0.9
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 128.35320496559143
+19
+0.95
+Sample ['books', 'instagram', 'cash_sum', 'about_topic', 'movies', 'about', 'activities_topic', 'personal_life_main', 'num_of_relatives', 'interests', 'top3_mean', 'min_tr', 'top2_mean', 'top1', 'quotes', 'activities', 'personal_people_main', 'is_parent', 'city_id']
+Time 129.7360053062439
+19
+0.4
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 212.13532996177673
+19
+0.45
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 210.07830595970154
+19
+0.5
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 212.6607789993286
+19
+0.55
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 202.06355953216553
+19
+0.6
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 189.97066617012024
+19
+0.65
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 198.1868975162506
+19
+0.7
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 172.39158630371094
+19
+0.75
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 156.91706585884094
+19
+0.8
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 146.95260906219482
+19
+0.85
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 129.04724216461182
+19
+0.9
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 119.29571866989136
+19
+0.95
+Sample ['music', 'instagram', 'has_pets', 'top1_mean', 'movies', 'activities_topic', 'quotes', 'followers_count', 'cash_sum', 'top2_mean', 'driver_sum', 'top2', 'num_of_relatives', 'parent_sum', 'activities', 'age', 'top1', 'personal_political', 'relation']
+Time 256.0877900123596
+20
+0.6
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 246.8688805103302
+20
+0.65
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 245.17019391059875
+20
+0.7
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 246.39370560646057
+20
+0.75
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 233.71446633338928
+20
+0.8
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 223.839937210083
+20
+0.85
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 222.3176407814026
+20
+0.9
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 156.55246114730835
+20
+0.95
+Sample ['interests', 'cash_usage', 'relation', 'driver_sum', 'is_driver', 'age', 'top3', 'sex', 'interests_topic', 'personal_alcohol', '90_perc', 'median_tr', 'twitter', 'followers_count', 'sum_am', 'music', 'is_parent', 'pets_sum', 'instagram', 'num_of_relatives']
+Time 210.12088012695312
+20
+0.4
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 261.32078742980957
+20
+0.45
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 252.78840255737305
+20
+0.5
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 253.09849786758423
+20
+0.55
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 255.44361472129822
+20
+0.6
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 228.79961252212524
+20
+0.65
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 210.6412672996521
+20
+0.7
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 205.66740942001343
+20
+0.75
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 162.3665328025818
+20
+0.8
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 145.1749300956726
+20
+0.85
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 146.606210231781
+20
+0.9
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 133.8348684310913
+20
+0.95
+Sample ['has_pets', 'twitter', 'pets_sum', 'music', 'movies', 'followers_count', 'sum_am', 'top2', 'interests_topic', 'mobile_phone', 'about_topic', 'is_driver', 'cash_sum', 'city_id', 'driver_sum', 'top2_mean', 'instagram', 'is_parent', 'max_tr', 'interests']
+Time 152.93990087509155
+20
+0.05
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 230.3454818725586
+20
+0.1
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 237.08867812156677
+20
+0.15
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 231.60843515396118
+20
+0.2
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 229.99073100090027
+20
+0.25
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 235.24884915351868
+20
+0.3
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 233.81945729255676
+20
+0.35
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 235.93223118782043
+20
+0.4
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 233.40106177330017
+20
+0.45
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 234.3779776096344
+20
+0.5
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 232.1131510734558
+20
+0.55
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 234.7139117717743
+20
+0.6
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 233.68294382095337
+20
+0.65
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 185.86985182762146
+20
+0.7
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 179.95371317863464
+20
+0.75
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 153.74168372154236
+20
+0.8
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 158.51893258094788
+20
+0.85
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 118.75228810310364
+20
+0.9
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 127.093022108078
+20
+0.95
+Sample ['facebook', 'has_high_education', 'is_parent', 'game_sum', 'activities_topic', 'books', 'relation', 'min_tr', 'max_tr', 'cash_usage', 'parent_sum', 'cash_sum', 'driver_sum', 'top2', 'mean_tr', 'sex', 'personal_political', 'quotes', 'has_pets', 'mobile_phone']
+Time 130.57796335220337
+20
+0.65
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 253.36742782592773
+20
+0.7
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 236.17642641067505
+20
+0.75
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 235.4210331439972
+20
+0.8
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 184.32211780548096
+20
+0.85
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 147.40447616577148
+20
+0.9
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 142.16084480285645
+20
+0.95
+Sample ['90_perc', 'age', 'top3_mean', 'HLength', 'top1', 'pets_sum', 'has_high_education', 'personal_alcohol', 'top1_mean', 'mobile_phone', 'is_driver', 'top3', 'top2', 'books', 'interests', 'personal_political', 'cash_sum', 'instagram', 'num_of_relatives', 'status']
+Time 134.99558234214783
+20
+0.6
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 230.6404149532318
+20
+0.65
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 206.99212408065796
+20
+0.7
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 189.58762860298157
+20
+0.75
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 193.46782207489014
+20
+0.8
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 164.14833641052246
+20
+0.85
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 124.30021905899048
+20
+0.9
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 126.19342112541199
+20
+0.95
+Sample ['90_perc', 'sex', 'instagram', 'tr_per_month', 'music', 'sum_am', 'top3_mean', 'min_tr', 'top3', 'activities', 'activities_topic', 'is_parent', 'has_pets', 'median_tr', 'is_gamer', 'HLength', 'quotes', 'interests', 'cash_usage', 'age']
+Time 137.31419372558594
+21
+0.5
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 260.3181326389313
+21
+0.55
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 260.07549571990967
+21
+0.6
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 262.19406747817993
+21
+0.65
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 223.68978548049927
+21
+0.7
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 226.62671446800232
+21
+0.75
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 205.10059022903442
+21
+0.8
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 171.03384256362915
+21
+0.85
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 160.80897212028503
+21
+0.9
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 119.02546906471252
+21
+0.95
+Sample ['relation', 'pets_sum', 'sum_am', 'top3_mean', 'personal_life_main', 'facebook', 'is_driver', 'about_topic', 'movies', 'driver_sum', 'top3', 'cash_usage', 'is_parent', 'parent_sum', 'mean_tr', 'num_of_relatives', 'status', 'is_gamer', 'personal_people_main', 'cash_sum', 'has_pets']
+Time 140.18221282958984
+21
+0.5
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 273.60776686668396
+21
+0.55
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 270.1056525707245
+21
+0.6
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 251.57779598236084
+21
+0.65
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 237.2070028781891
+21
+0.7
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 239.49000883102417
+21
+0.75
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 222.01731896400452
+21
+0.8
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 221.12614226341248
+21
+0.85
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 164.9420726299286
+21
+0.9
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 144.56949710845947
+21
+0.95
+Sample ['books', 'max_tr', 'about_topic', 'top1', 'has_high_education', '90_perc', 'is_gamer', 'personal_political', 'top3', 'personal_alcohol', 'personal_people_main', 'sum_am', 'facebook', 'cash_sum', 'city_id', 'tr_per_month', 'num_of_relatives', 'has_pets', 'followers_count', 'mobile_phone', 'personal_life_main']
+Time 276.37545943260193
+21
+0.05
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 253.241858959198
+21
+0.1
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 258.6580910682678
+21
+0.15
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 258.66265988349915
+21
+0.2
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 259.7609820365906
+21
+0.25
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 255.99868607521057
+21
+0.3
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 257.23077869415283
+21
+0.35
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 256.44515800476074
+21
+0.4
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 246.13103127479553
+21
+0.45
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 240.8312156200409
+21
+0.5
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 234.36408066749573
+21
+0.55
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 236.71511578559875
+21
+0.6
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 234.8462541103363
+21
+0.65
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 234.72549676895142
+21
+0.7
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 233.58594012260437
+21
+0.75
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 222.31173157691956
+21
+0.8
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 201.55912375450134
+21
+0.85
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 186.28427624702454
+21
+0.9
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 154.16607236862183
+21
+0.95
+Sample ['num_of_relatives', 'mobile_phone', 'top2_mean', 'game_sum', 'is_gamer', 'parent_sum', 'has_pets', 'min_tr', 'activities_topic', 'personal_people_main', 'max_tr', 'personal_political', 'facebook', 'music', 'driver_sum', 'pets_sum', '90_perc', 'about_topic', 'status', 'sum_am', 'movies']
+Time 125.16322565078735
+21
+0.65
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 257.9712748527527
+21
+0.7
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 245.90378856658936
+21
+0.75
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 189.85582828521729
+21
+0.8
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 190.61584377288818
+21
+0.85
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 158.99714589118958
+21
+0.9
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 138.53083086013794
+21
+0.95
+Sample ['cash_sum', 'HLength', 'status', 'game_sum', 'interests_topic', 'interests', 'activities_topic', 'personal_people_main', 'cash_usage', 'sex', 'about', 'tr_per_month', 'min_tr', 'age', 'top1', 'is_gamer', 'books', 'about_topic', 'instagram', 'twitter', 'relation']
+Time 120.67588806152344
+21
+0.55
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 265.1319079399109
+21
+0.6
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 222.2091417312622
+21
+0.65
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 197.77652072906494
+21
+0.7
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 195.00159883499146
+21
+0.75
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 161.6285994052887
+21
+0.8
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 141.47544026374817
+21
+0.85
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 135.3838746547699
+21
+0.9
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 137.2244369983673
+21
+0.95
+Sample ['cash_sum', 'about', 'interests', 'movies', 'top1_mean', 'books', 'is_gamer', 'min_tr', 'facebook', 'has_pets', 'personal_alcohol', '90_perc', 'HLength', 'status', 'about_topic', 'personal_people_main', 'cash_usage', 'interests_topic', 'followers_count', 'game_sum', 'personal_political']
+Time 157.15998148918152
+22
+0.4
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 293.394629240036
+22
+0.45
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 289.96632719039917
+22
+0.5
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 296.9116179943085
+22
+0.55
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 307.0134651660919
+22
+0.6
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 295.4203853607178
+22
+0.65
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 250.4971981048584
+22
+0.7
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 229.1795573234558
+22
+0.75
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 206.58982133865356
+22
+0.8
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 209.6946952342987
+22
+0.85
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 155.79366898536682
+22
+0.9
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 141.56909370422363
+22
+0.95
+Sample ['age', 'status', 'top1', 'sex', 'cash_sum', 'interests_topic', 'is_gamer', 'top3_mean', 'mobile_phone', 'relation', 'sum_am', 'personal_life_main', 'is_driver', 'movies', 'max_tr', 'top2_mean', 'personal_alcohol', 'music', 'driver_sum', 'has_high_education', 'activities', 'tr_per_month']
+Time 143.37829279899597
+22
+0.5
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 300.7963516712189
+22
+0.55
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 283.2771952152252
+22
+0.6
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 208.40157866477966
+22
+0.65
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 179.338054895401
+22
+0.7
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 178.91428327560425
+22
+0.75
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 154.4333300590515
+22
+0.8
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 154.0540132522583
+22
+0.85
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 135.18599939346313
+22
+0.9
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 159.1917941570282
+22
+0.95
+Sample ['min_tr', 'personal_alcohol', 'movies', 'cash_sum', 'personal_political', 'quotes', 'is_gamer', 'top1', '90_perc', 'status', 'personal_people_main', 'top2_mean', 'about_topic', 'cash_usage', 'sex', 'interests', 'sum_am', 'about', 'mean_tr', 'is_driver', 'HLength', 'books']
+Time 161.75523710250854
+22
+0.4
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 297.9132807254791
+22
+0.45
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 290.86449670791626
+22
+0.5
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 284.6639540195465
+22
+0.55
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 298.4713010787964
+22
+0.6
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 254.97310829162598
+22
+0.65
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 233.12155175209045
+22
+0.7
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 231.4441373348236
+22
+0.75
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 208.28797459602356
+22
+0.8
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 206.18842244148254
+22
+0.85
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 185.45940017700195
+22
+0.9
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 175.63754153251648
+22
+0.95
+Sample ['HLength', 'is_driver', 'is_parent', 'movies', 'parent_sum', 'facebook', 'min_tr', 'top2_mean', 'tr_per_month', 'about', 'personal_life_main', 'top3_mean', 'sex', 'personal_people_main', 'max_tr', 'personal_political', 'quotes', 'relation', '90_perc', 'game_sum', 'status', 'music']
+Time 137.95953702926636
+22
+0.55
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 297.9028377532959
+22
+0.6
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 262.660218000412
+22
+0.65
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 241.0333547592163
+22
+0.7
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 241.21596097946167
+22
+0.75
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 223.2759416103363
+22
+0.8
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 213.5419111251831
+22
+0.85
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 206.81876611709595
+22
+0.9
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 156.69419503211975
+22
+0.95
+Sample ['top3_mean', 'interests_topic', 'top3', 'age', 'HLength', 'is_driver', 'twitter', 'parent_sum', 'personal_political', 'interests', 'instagram', 'relation', 'sex', 'personal_alcohol', 'books', 'is_parent', 'movies', 'is_gamer', 'mean_tr', 'cash_sum', 'mobile_phone', 'activities_topic']
+Time 133.34069681167603
+22
+0.6
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 311.8774571418762
+22
+0.65
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 304.93856859207153
+22
+0.7
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 309.4600131511688
+22
+0.75
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 294.9133243560791
+22
+0.8
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 271.9063980579376
+22
+0.85
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 225.46605563163757
+22
+0.9
+Sample ['facebook', 'mean_tr', 'sum_am', 'city_id', 'interests', 'is_driver', 'followers_count', 'top1_mean', 'max_tr', 'relation', 'personal_alcohol', 'top3', 'min_tr', 'age', 'has_pets', 'parent_sum', 'cash_usage', 'num_of_relatives', 'personal_political', 'music', 'top2_mean', 'mobile_phone']
+Time 163.4349148273468
+23
+0.05
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 329.3977572917938
+23
+0.1
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 327.2395508289337
+23
+0.15
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 322.8850243091583
+23
+0.2
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 329.40425062179565
+23
+0.25
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 322.3923888206482
+23
+0.3
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 321.6046004295349
+23
+0.35
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 323.15993213653564
+23
+0.4
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 324.1390974521637
+23
+0.45
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 324.4303312301636
+23
+0.5
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 319.3807837963104
+23
+0.55
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 330.49491238594055
+23
+0.6
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 270.8488552570343
+23
+0.65
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 273.7209861278534
+23
+0.7
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 274.4949412345886
+23
+0.75
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 274.36328959465027
+23
+0.8
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 228.1587779521942
+23
+0.85
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 175.8807213306427
+23
+0.9
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 139.49550819396973
+23
+0.95
+Sample ['top2', 'movies', 'about_topic', 'tr_per_month', 'is_driver', 'activities_topic', 'quotes', 'interests', 'relation', 'top3_mean', 'driver_sum', 'personal_life_main', 'mean_tr', 'sum_am', 'cash_usage', 'has_high_education', 'facebook', 'pets_sum', 'game_sum', 'instagram', 'top1', 'has_pets', 'status']
+Time 141.08810138702393
+23
+0.55
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 336.9939329624176
+23
+0.6
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 307.71965646743774
+23
+0.65
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 282.55635356903076
+23
+0.7
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 258.43293261528015
+23
+0.75
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 232.0382776260376
+23
+0.8
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 218.1206910610199
+23
+0.85
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 176.12099146842957
+23
+0.9
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 165.93878149986267
+23
+0.95
+Sample ['personal_political', 'cash_usage', 'has_pets', 'instagram', 'median_tr', 'books', 'top2_mean', 'quotes', 'activities', 'parent_sum', 'is_gamer', 'activities_topic', 'age', 'is_driver', 'music', 'max_tr', 'top2', 'interests', 'about', 'city_id', 'pets_sum', 'personal_life_main', 'num_of_relatives']
+Time 154.007732629776
+23
+0.55
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 324.19118785858154
+23
+0.6
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 309.3885109424591
+23
+0.65
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 277.42048382759094
+23
+0.7
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 276.2813391685486
+23
+0.75
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 264.612669467926
+23
+0.8
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 231.37536072731018
+23
+0.85
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 199.56139516830444
+23
+0.9
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 151.87087392807007
+23
+0.95
+Sample ['top1_mean', 'min_tr', 'has_pets', 'driver_sum', 'twitter', 'top2', 'books', 'mean_tr', 'tr_per_month', 'facebook', 'mobile_phone', 'top2_mean', 'pets_sum', 'personal_life_main', 'movies', 'personal_political', 'activities_topic', 'status', 'about_topic', 'personal_alcohol', 'quotes', 'is_parent', 'city_id']
+Time 169.74720573425293
+23
+0.4
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 333.4254469871521
+23
+0.45
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 330.36810755729675
+23
+0.5
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 326.199355840683
+23
+0.55
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 330.14968276023865
+23
+0.6
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 276.0476813316345
+23
+0.65
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 270.81901955604553
+23
+0.7
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 261.0374608039856
+23
+0.75
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 260.2036283016205
+23
+0.8
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 256.65944933891296
+23
+0.85
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 224.5784261226654
+23
+0.9
+Sample ['followers_count', 'activities', 'personal_political', 'music', '90_perc', 'has_pets', 'instagram', 'city_id', 'has_high_education', 'top2', 'age', 'about_topic', 'game_sum', 'is_parent', 'tr_per_month', 'min_tr', 'quotes', 'interests', 'status', 'movies', 'personal_alcohol', 'num_of_relatives', 'top3_mean']
+Time 198.4554467201233
+23
+0.5
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 362.7941794395447
+23
+0.55
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 361.3402192592621
+23
+0.6
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 354.74272060394287
+23
+0.65
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 300.87310576438904
+23
+0.7
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 288.1011996269226
+23
+0.75
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 274.22512674331665
+23
+0.8
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 264.8045449256897
+23
+0.85
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 187.75690340995789
+23
+0.9
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 171.48394465446472
+23
+0.95
+Sample ['activities', 'personal_political', 'has_pets', '90_perc', 'min_tr', 'personal_people_main', 'facebook', 'is_driver', 'activities_topic', 'interests_topic', 'mean_tr', 'cash_usage', 'top1_mean', 'parent_sum', 'about_topic', 'is_parent', 'books', 'quotes', 'driver_sum', 'top3', 'has_high_education', 'followers_count', 'city_id']
+Time 188.4074239730835
+24
+0.55
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 377.5280523300171
+24
+0.6
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 384.1781361103058
+24
+0.65
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 345.6892087459564
+24
+0.7
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 314.00238490104675
+24
+0.75
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 301.6363446712494
+24
+0.8
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 269.4822325706482
+24
+0.85
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 192.94751024246216
+24
+0.9
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 154.52194166183472
+24
+0.95
+Sample ['city_id', 'sex', 'pets_sum', 'median_tr', 'music', 'personal_people_main', 'top1_mean', 'interests_topic', 'about', 'personal_political', 'facebook', 'twitter', 'age', 'is_driver', 'parent_sum', 'top2', 'has_high_education', 'cash_usage', 'books', 'relation', 'has_pets', 'activities', 'is_parent', 'HLength']
+Time 156.26217937469482
+24
+0.4
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 344.70197081565857
+24
+0.45
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 343.73929619789124
+24
+0.5
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 351.5465648174286
+24
+0.55
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 359.44600915908813
+24
+0.6
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 338.49603366851807
+24
+0.65
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 312.0153851509094
+24
+0.7
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 316.76553320884705
+24
+0.75
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 291.84415459632874
+24
+0.8
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 267.91456723213196
+24
+0.85
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 247.2815136909485
+24
+0.9
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 180.38274097442627
+24
+0.95
+Sample ['movies', 'sex', 'city_id', 'cash_sum', 'has_high_education', 'tr_per_month', 'mobile_phone', 'is_driver', 'interests', 'status', 'max_tr', 'num_of_relatives', 'about', 'age', '90_perc', 'is_gamer', 'top3_mean', 'top1_mean', 'min_tr', 'sum_am', 'facebook', 'music', 'driver_sum', 'top2_mean']
+Time 177.92224311828613
+24
+0.65
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 311.80592799186707
+24
+0.7
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 318.6886405944824
+24
+0.75
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 275.2804434299469
+24
+0.8
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 235.47758626937866
+24
+0.85
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 168.41849327087402
+24
+0.9
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 162.07865118980408
+24
+0.95
+Sample ['top3_mean', 'top3', 'activities_topic', 'is_driver', 'has_high_education', 'top1_mean', 'parent_sum', 'instagram', 'personal_alcohol', 'max_tr', 'top2', 'cash_usage', 'tr_per_month', 'is_parent', 'has_pets', 'HLength', 'about', 'pets_sum', 'relation', 'top2_mean', 'mobile_phone', 'personal_life_main', 'movies', 'min_tr']
+Time 232.77732300758362
+24
+0.55
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 382.0430884361267
+24
+0.6
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 383.8074219226837
+24
+0.65
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 354.8911280632019
+24
+0.7
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 320.7936990261078
+24
+0.75
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 305.8230698108673
+24
+0.8
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 285.20376205444336
+24
+0.85
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 244.51592373847961
+24
+0.9
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 194.34550046920776
+24
+0.95
+Sample ['pets_sum', 'relation', 'books', 'instagram', 'followers_count', 'twitter', 'has_high_education', 'about_topic', 'max_tr', 'city_id', 'is_gamer', 'num_of_relatives', 'sum_am', 'median_tr', 'top1_mean', 'personal_life_main', 'is_parent', 'music', 'top3', 'has_pets', 'interests', 'age', 'activities', 'quotes']
+Time 226.75011038780212
+24
+0.4
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 369.084196805954
+24
+0.45
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 382.06042289733887
+24
+0.5
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 372.1675913333893
+24
+0.55
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 337.28796195983887
+24
+0.6
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 298.43853092193604
+24
+0.65
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 295.4297480583191
+24
+0.7
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 289.4461212158203
+24
+0.75
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 253.29702377319336
+24
+0.8
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 210.96603059768677
+24
+0.85
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 182.05240392684937
+24
+0.9
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 162.82258439064026
+24
+0.95
+Sample ['mobile_phone', 'personal_political', 'is_parent', 'min_tr', 'age', 'tr_per_month', 'interests', 'num_of_relatives', 'books', 'music', 'game_sum', 'movies', 'city_id', 'personal_people_main', 'has_high_education', 'top3_mean', 'top3', 'has_pets', 'cash_sum', 'pets_sum', 'about', 'median_tr', 'cash_usage', 'quotes']
+Time 197.0909779071808
+25
+0.55
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 391.35183930397034
+25
+0.6
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 361.47862434387207
+25
+0.65
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 321.4700782299042
+25
+0.7
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 283.65012645721436
+25
+0.75
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 242.85125136375427
+25
+0.8
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 243.71707463264465
+25
+0.85
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 187.31467986106873
+25
+0.9
+Sample ['movies', 'followers_count', 'max_tr', 'activities_topic', 'sum_am', 'cash_usage', 'about_topic', 'quotes', 'game_sum', 'is_parent', 'personal_political', 'top1_mean', 'median_tr', 'pets_sum', 'mobile_phone', 'min_tr', 'tr_per_month', 'age', 'interests_topic', 'personal_life_main', 'num_of_relatives', 'top1', 'instagram', 'about', 'books']
+Time 184.5885808467865
+25
+0.4
+Sample ['music', 'followers_count', 'HLength', 'personal_alcohol', 'mobile_phone', 'top1', 'relation', 'city_id', 'movies', 'cash_sum', 'has_pets', 'is_driver', 'top3_mean', 'top2_mean', 'driver_sum', 'interests', 'parent_sum', 'sum_am', 'sex', 'books', 'has_high_education', 'is_gamer', 'facebook', 'personal_life_main', 'max_tr']
+Time 378.1748037338257
+25
+0.45
+Sample ['music', 'followers_count', 'HLength', 'personal_alcohol', 'mobile_phone', 'top1', 'relation', 'city_id', 'movies', 'cash_sum', 'has_pets', 'is_driver', 'top3_mean', 'top2_mean', 'driver_sum', 'interests', 'parent_sum', 'sum_am', 'sex', 'books', 'has_high_education', 'is_gamer', 'facebook', 'personal_life_main', 'max_tr']
+Time 393.3170051574707
+25
+0.5
+Sample ['music', 'followers_count', 'HLength', 'personal_alcohol', 'mobile_phone', 'top1', 'relation', 'city_id', 'movies', 'cash_sum', 'has_pets', 'is_driver', 'top3_mean', 'top2_mean', 'driver_sum', 'interests', 'parent_sum', 'sum_am', 'sex', 'books', 'has_high_education', 'is_gamer', 'facebook', 'personal_life_main', 'max_tr']
+Time 385.5307116508484

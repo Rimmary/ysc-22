@@ -1,0 +1,60 @@
+24
+0.8
+mostly
+Sample ['Season', 'no2', 'Type', 'Latitude', 'Year', 'blh', 'tp', 'pm10', 'ws', 'ssr', 'o3', 'Zone', 'Hour', 'Region', 'Day', 'Longitude', 'Altitude', 'Month', 'wd', 'co', 'CVD60', 'pm2.5', 't2m', 'so2']
+Time 141.42991399765015
+24
+0.9
+mostly
+Sample ['Season', 'no2', 'Type', 'Latitude', 'Year', 'blh', 'tp', 'pm10', 'ws', 'ssr', 'o3', 'Zone', 'Hour', 'Region', 'Day', 'Longitude', 'Altitude', 'Month', 'wd', 'co', 'CVD60', 'pm2.5', 't2m', 'so2']
+Time 86.0756425857544
+24
+0.8
+hamming
+Sample ['Season', 'no2', 'Type', 'Latitude', 'Year', 'blh', 'tp', 'pm10', 'ws', 'ssr', 'o3', 'Zone', 'Hour', 'Region', 'Day', 'Longitude', 'Altitude', 'Month', 'wd', 'co', 'CVD60', 'pm2.5', 't2m', 'so2']
+Time 139.40170621871948
+24
+0.9
+hamming
+Sample ['Season', 'no2', 'Type', 'Latitude', 'Year', 'blh', 'tp', 'pm10', 'ws', 'ssr', 'o3', 'Zone', 'Hour', 'Region', 'Day', 'Longitude', 'Altitude', 'Month', 'wd', 'co', 'CVD60', 'pm2.5', 't2m', 'so2']
+Time 101.78373837471008
+24
+0.8
+mostly
+Sample ['Region', 'pm2.5', 'pm10', 'so2', 'CVD60', 'co', 'ws', 'Day', 'wd', 't2m', 'no2', 'Latitude', 'Year', 'Hour', 'Altitude', 'o3', 'tp', 'Type', 'Zone', 'Month', 'Longitude', 'Season', 'blh', 'ssr']
+Time 141.10793352127075
+24
+0.9
+mostly
+Sample ['Region', 'pm2.5', 'pm10', 'so2', 'CVD60', 'co', 'ws', 'Day', 'wd', 't2m', 'no2', 'Latitude', 'Year', 'Hour', 'Altitude', 'o3', 'tp', 'Type', 'Zone', 'Month', 'Longitude', 'Season', 'blh', 'ssr']
+Time 86.77423882484436
+24
+0.8
+hamming
+Sample ['Region', 'pm2.5', 'pm10', 'so2', 'CVD60', 'co', 'ws', 'Day', 'wd', 't2m', 'no2', 'Latitude', 'Year', 'Hour', 'Altitude', 'o3', 'tp', 'Type', 'Zone', 'Month', 'Longitude', 'Season', 'blh', 'ssr']
+Time 139.22614693641663
+24
+0.9
+hamming
+Sample ['Region', 'pm2.5', 'pm10', 'so2', 'CVD60', 'co', 'ws', 'Day', 'wd', 't2m', 'no2', 'Latitude', 'Year', 'Hour', 'Altitude', 'o3', 'tp', 'Type', 'Zone', 'Month', 'Longitude', 'Season', 'blh', 'ssr']
+Time 101.56952571868896
+24
+0.8
+mostly
+Sample ['CVD60', 'so2', 'Year', 'Month', 'Longitude', 'co', 'Altitude', 'ssr', 'wd', 'Latitude', 'blh', 'pm2.5', 'no2', 'Season', 'ws', 'Hour', 'Day', 'o3', 'Region', 't2m', 'Zone', 'Type', 'tp', 'pm10']
+Time 141.430837392807
+24
+0.9
+mostly
+Sample ['CVD60', 'so2', 'Year', 'Month', 'Longitude', 'co', 'Altitude', 'ssr', 'wd', 'Latitude', 'blh', 'pm2.5', 'no2', 'Season', 'ws', 'Hour', 'Day', 'o3', 'Region', 't2m', 'Zone', 'Type', 'tp', 'pm10']
+Time 87.09112906455994
+24
+0.8
+hamming
+Sample ['CVD60', 'so2', 'Year', 'Month', 'Longitude', 'co', 'Altitude', 'ssr', 'wd', 'Latitude', 'blh', 'pm2.5', 'no2', 'Season', 'ws', 'Hour', 'Day', 'o3', 'Region', 't2m', 'Zone', 'Type', 'tp', 'pm10']
+Time 139.55306839942932
+24
+0.9
+hamming
+Sample ['CVD60', 'so2', 'Year', 'Month', 'Longitude', 'co', 'Altitude', 'ssr', 'wd', 'Latitude', 'blh', 'pm2.5', 'no2', 'Season', 'ws', 'Hour', 'Day', 'o3', 'Region', 't2m', 'Zone', 'Type', 'tp', 'pm10']
+Time 102.34293913841248

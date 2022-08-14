@@ -1,0 +1,240 @@
+7
+0.8
+mostly
+Sample 4500
+Time 1.921891689300537
+7
+0.7
+hamming
+Sample 4500
+Time 1.6554067134857178
+7
+0.4
+mostly
+Sample 4500
+Time 0.5594217777252197
+7
+0.5
+mostly
+Sample 3000
+Time 0.5600631237030029
+7
+0.8
+hamming
+Sample 4500
+Time 1.6568782329559326
+7
+0.6
+hamming
+Sample 1500
+Time 0.5563011169433594
+7
+0.9
+mostly
+Sample 1500
+Time 1.9321303367614746
+7
+0.6
+hamming
+Sample 3000
+Time 0.5603206157684326
+7
+0.4
+mostly
+Sample 3000
+Time 0.5615425109863281
+7
+0.9
+hamming
+Sample 4500
+Time 1.6633071899414062
+7
+0.5
+mostly
+Sample 4500
+Time 0.5574731826782227
+7
+0.6
+mostly
+Sample 1500
+Time 1.820951223373413
+7
+0.8
+mostly
+Sample 1500
+Time 1.9179563522338867
+7
+0.4
+hamming
+Sample 3000
+Time 0.746229887008667
+7
+0.3
+mostly
+Sample 3000
+Time 0.5615870952606201
+7
+0.7
+mostly
+Sample 3000
+Time 1.9169580936431885
+7
+0.7
+hamming
+Sample 3000
+Time 1.6569788455963135
+7
+0.7
+mostly
+Sample 4500
+Time 1.9137823581695557
+7
+0.2
+mostly
+Sample 3000
+Time 0.6516070365905762
+7
+0.3
+hamming
+Sample 4500
+Time 0.7565736770629883
+7
+0.8
+hamming
+Sample 1500
+Time 1.6643593311309814
+7
+0.8
+mostly
+Sample 3000
+Time 1.920158863067627
+7
+0.9
+mostly
+Sample 3000
+Time 1.9120383262634277
+7
+0.2
+hamming
+Sample 3000
+Time 1.2191212177276611
+7
+0.2
+mostly
+Sample 1500
+Time 0.6531076431274414
+7
+0.2
+hamming
+Sample 1500
+Time 1.2351195812225342
+7
+0.7
+hamming
+Sample 1500
+Time 1.7169249057769775
+7
+0.4
+hamming
+Sample 4500
+Time 0.7510268688201904
+7
+0.5
+hamming
+Sample 3000
+Time 0.7580394744873047
+7
+0.3
+mostly
+Sample 1500
+Time 0.5611658096313477
+7
+0.2
+mostly
+Sample 4500
+Time 0.6536951065063477
+7
+0.5
+hamming
+Sample 1500
+Time 0.42439913749694824
+7
+0.3
+hamming
+Sample 3000
+Time 0.7564427852630615
+7
+0.5
+mostly
+Sample 1500
+Time 0.5609397888183594
+7
+0.6
+mostly
+Sample 3000
+Time 1.8421928882598877
+7
+0.7
+mostly
+Sample 1500
+Time 1.9355237483978271
+7
+0.2
+hamming
+Sample 4500
+Time 1.230194330215454
+7
+0.5
+hamming
+Sample 4500
+Time 0.7522449493408203
+7
+0.3
+hamming
+Sample 1500
+Time 0.4293243885040283
+7
+0.9
+hamming
+Sample 1500
+Time 1.6702935695648193
+7
+0.9
+hamming
+Sample 3000
+Time 1.669835090637207
+7
+0.8
+hamming
+Sample 3000
+Time 1.6658151149749756
+7
+0.9
+mostly
+Sample 4500
+Time 1.9354612827301025
+7
+0.4
+mostly
+Sample 1500
+Time 0.5600299835205078
+7
+0.6
+mostly
+Sample 4500
+Time 1.8330168724060059
+7
+0.3
+mostly
+Sample 4500
+Time 0.5583639144897461
+7
+0.6
+hamming
+Sample 4500
+Time 0.5649464130401611
+7
+0.4
+hamming
+Sample 1500
+Time 0.4244711399078369

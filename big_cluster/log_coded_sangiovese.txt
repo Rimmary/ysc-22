@@ -1,0 +1,60 @@
+15
+0.8
+mostly
+Sample ['BunchN', 'Acid', 'pH', 'SproutN', 'WoodW', 'Brix', 'SPAD08', 'NDVI08', 'GrapeW', 'SPAD06', 'NDVI06', 'Anthoc', 'Treatment', 'Potass', 'Polyph']
+Time 42.85823583602905
+15
+0.9
+mostly
+Sample ['BunchN', 'Acid', 'pH', 'SproutN', 'WoodW', 'Brix', 'SPAD08', 'NDVI08', 'GrapeW', 'SPAD06', 'NDVI06', 'Anthoc', 'Treatment', 'Potass', 'Polyph']
+Time 26.57614278793335
+15
+0.8
+hamming
+Sample ['BunchN', 'Acid', 'pH', 'SproutN', 'WoodW', 'Brix', 'SPAD08', 'NDVI08', 'GrapeW', 'SPAD06', 'NDVI06', 'Anthoc', 'Treatment', 'Potass', 'Polyph']
+Time 58.10807228088379
+15
+0.9
+hamming
+Sample ['BunchN', 'Acid', 'pH', 'SproutN', 'WoodW', 'Brix', 'SPAD08', 'NDVI08', 'GrapeW', 'SPAD06', 'NDVI06', 'Anthoc', 'Treatment', 'Potass', 'Polyph']
+Time 41.703983545303345
+15
+0.8
+mostly
+Sample ['Polyph', 'Anthoc', 'NDVI06', 'pH', 'Acid', 'Treatment', 'SPAD08', 'WoodW', 'SPAD06', 'SproutN', 'NDVI08', 'Potass', 'Brix', 'GrapeW', 'BunchN']
+Time 42.91652488708496
+15
+0.9
+mostly
+Sample ['Polyph', 'Anthoc', 'NDVI06', 'pH', 'Acid', 'Treatment', 'SPAD08', 'WoodW', 'SPAD06', 'SproutN', 'NDVI08', 'Potass', 'Brix', 'GrapeW', 'BunchN']
+Time 25.959304094314575
+15
+0.8
+hamming
+Sample ['Polyph', 'Anthoc', 'NDVI06', 'pH', 'Acid', 'Treatment', 'SPAD08', 'WoodW', 'SPAD06', 'SproutN', 'NDVI08', 'Potass', 'Brix', 'GrapeW', 'BunchN']
+Time 57.282548666000366
+15
+0.9
+hamming
+Sample ['Polyph', 'Anthoc', 'NDVI06', 'pH', 'Acid', 'Treatment', 'SPAD08', 'WoodW', 'SPAD06', 'SproutN', 'NDVI08', 'Potass', 'Brix', 'GrapeW', 'BunchN']
+Time 42.08461046218872
+15
+0.8
+mostly
+Sample ['Treatment', 'Potass', 'NDVI08', 'Polyph', 'NDVI06', 'GrapeW', 'Anthoc', 'Brix', 'WoodW', 'SproutN', 'Acid', 'pH', 'BunchN', 'SPAD08', 'SPAD06']
+Time 42.9952232837677
+15
+0.9
+mostly
+Sample ['Treatment', 'Potass', 'NDVI08', 'Polyph', 'NDVI06', 'GrapeW', 'Anthoc', 'Brix', 'WoodW', 'SproutN', 'Acid', 'pH', 'BunchN', 'SPAD08', 'SPAD06']
+Time 27.798644065856934
+15
+0.8
+hamming
+Sample ['Treatment', 'Potass', 'NDVI08', 'Polyph', 'NDVI06', 'GrapeW', 'Anthoc', 'Brix', 'WoodW', 'SproutN', 'Acid', 'pH', 'BunchN', 'SPAD08', 'SPAD06']
+Time 56.02597999572754
+15
+0.9
+hamming
+Sample ['Treatment', 'Potass', 'NDVI08', 'Polyph', 'NDVI06', 'GrapeW', 'Anthoc', 'Brix', 'WoodW', 'SproutN', 'Acid', 'pH', 'BunchN', 'SPAD08', 'SPAD06']
+Time 43.18225288391113

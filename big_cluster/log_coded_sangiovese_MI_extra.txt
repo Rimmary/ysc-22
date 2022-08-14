@@ -1,0 +1,60 @@
+15
+0.8
+mostly
+Sample 1500
+Time 2.8437275886535645
+15
+0.8
+hamming
+Sample 1500
+Time 3.0638937950134277
+15
+0.9
+mostly
+Sample 3000
+Time 10.67081093788147
+15
+0.8
+hamming
+Sample 4500
+Time 3.1002681255340576
+15
+0.8
+hamming
+Sample 3000
+Time 3.072382688522339
+15
+0.8
+mostly
+Sample 4500
+Time 2.86311674118042
+15
+0.9
+hamming
+Sample 3000
+Time 1.312927484512329
+15
+0.9
+hamming
+Sample 4500
+Time 1.314033031463623
+15
+0.9
+hamming
+Sample 1500
+Time 12.592084884643555
+15
+0.9
+mostly
+Sample 4500
+Time 9.68959665298462
+15
+0.9
+mostly
+Sample 1500
+Time 10.084767580032349
+15
+0.8
+mostly
+Sample 3000
+Time 2.8564565181732178

@@ -1,0 +1,9 @@
+24
+Sample ['Season', 'no2', 'Type', 'Latitude', 'Year', 'blh', 'tp', 'pm10', 'ws', 'ssr', 'o3', 'Zone', 'Hour', 'Region', 'Day', 'Longitude', 'Altitude', 'Month', 'wd', 'co', 'CVD60', 'pm2.5', 't2m', 'so2']
+Time 148.9150128364563
+24
+Sample ['Region', 'pm2.5', 'pm10', 'so2', 'CVD60', 'co', 'ws', 'Day', 'wd', 't2m', 'no2', 'Latitude', 'Year', 'Hour', 'Altitude', 'o3', 'tp', 'Type', 'Zone', 'Month', 'Longitude', 'Season', 'blh', 'ssr']
+Time 149.20726704597473
+24
+Sample ['CVD60', 'so2', 'Year', 'Month', 'Longitude', 'co', 'Altitude', 'ssr', 'wd', 'Latitude', 'blh', 'pm2.5', 'no2', 'Season', 'ws', 'Hour', 'Day', 'o3', 'Region', 't2m', 'Zone', 'Type', 'tp', 'pm10']
+Time 149.15347146987915

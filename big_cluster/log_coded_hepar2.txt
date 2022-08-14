@@ -1,0 +1,80 @@
+70
+0.6
+mostly
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 776.3002307415009
+70
+0.7
+mostly
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 777.5745437145233
+70
+0.8
+mostly
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 654.5878536701202
+70
+0.9
+mostly
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 453.0872266292572
+70
+0.6
+hamming
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 769.836697101593
+70
+0.7
+hamming
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 770.6378490924835
+70
+0.8
+hamming
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 657.8022923469543
+70
+0.9
+hamming
+Sample ['Steatosis', 'injections', 'le_cells', 'diabetes', 'edge', 'nausea', 'spiders', 'alcohol', 'itching', 'ast', 'PBC', 'gallstones', 'ama', 'vh_amn', 'cholesterol', 'jaundice', 'pain_ruq', 'inr', 'ESR', 'alt', 'alcoholism', 'ascites', 'pressure_ruq', 'carcinoma', 'fibrosis', 'platelet', 'spleen', 'triglycerides', 'anorexia', 'albumin', 'flatulence', 'pain', 'hbc_anti', 'hbsag', 'consciousness', 'hbsag_anti', 'bleeding', 'hepatomegaly', 'density', 'skin', 'hcv_anti', 'hepatalgia', 'choledocholithotomy', 'sex', 'ggtp', 'RHepatitis', 'upper_pain', 'palms', 'transfusion', 'amylase', 'proteins', 'irregular_liver', 'THepatitis', 'surgery', 'edema', 'joints', 'fat', 'obesity', 'Hyperbilirubinemia', 'hbeag', 'urea', 'ChHepatitis', 'Cirrhosis', 'hepatotoxic', 'phosphatase', 'hospital', 'bilirubin', 'age', 'fatigue', 'encephalopathy']
+Time 461.20266008377075
+70
+0.6
+mostly
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 778.5879995822906
+70
+0.7
+mostly
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 779.6128659248352
+70
+0.8
+mostly
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 667.9541401863098
+70
+0.9
+mostly
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 453.73529291152954
+70
+0.6
+hamming
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 770.93221783638
+70
+0.7
+hamming
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 771.682555437088
+70
+0.8
+hamming
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 658.4486794471741
+70
+0.9
+hamming
+Sample ['jaundice', 'ama', 'amylase', 'cholesterol', 'fatigue', 'hepatalgia', 'density', 'surgery', 'pressure_ruq', 'encephalopathy', 'le_cells', 'gallstones', 'alt', 'ChHepatitis', 'joints', 'hcv_anti', 'upper_pain', 'bilirubin', 'hbeag', 'irregular_liver', 'vh_amn', 'skin', 'hepatotoxic', 'Hyperbilirubinemia', 'hepatomegaly', 'bleeding', 'platelet', 'urea', 'hbsag', 'anorexia', 'flatulence', 'consciousness', 'fibrosis', 'alcoholism', 'age', 'pain', 'spiders', 'alcohol', 'hbc_anti', 'ESR', 'pain_ruq', 'Cirrhosis', 'sex', 'hbsag_anti', 'injections', 'RHepatitis', 'Steatosis', 'ast', 'edema', 'proteins', 'obesity', 'hospital', 'palms', 'spleen', 'PBC', 'itching', 'choledocholithotomy', 'albumin', 'transfusion', 'inr', 'THepatitis', 'ascites', 'ggtp', 'phosphatase', 'edge', 'diabetes', 'triglycerides', 'fat', 'nausea', 'carcinoma']
+Time 461.2823712825775
